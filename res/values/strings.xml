@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">abaktest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="download_button">Загрузить</string>
+    <string name="clean_button">Очистить</string>
+    <string name="download_url">http://railsc.ru/resp.txt</string>
+    
+    <string name="name_of_product">Название товара</string>
+    <string name="photo">фото</string>
+    
+    <string name="prefs">abak_press_prefs</string>
+    <string name="prefs_is_fully_loaded">is_fully_loaded</string>
+    
+</resources>
